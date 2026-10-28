@@ -1,0 +1,12 @@
+/home/e2f5db0/Projects/vanity-npub/target/debug/deps/librand_core-b47858089e2ab6fc.rmeta: /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/e2f5db0/Projects/vanity-npub/target/debug/deps/librand_core-b47858089e2ab6fc.rlib: /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/e2f5db0/Projects/vanity-npub/target/debug/deps/rand_core-b47858089e2ab6fc.d: /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs /home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs
+
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/lib.rs:
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/block.rs:
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/error.rs:
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/impls.rs:
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/le.rs:
+/home/e2f5db0/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.4/src/os.rs:
