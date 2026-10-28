@@ -1,0 +1,26 @@
+# Rust build output
+/target/
+
+# Cargo.lock policy:
+# This is a binary application, so Cargo.lock should be committed for reproducible builds.
+# Do not ignore Cargo.lock.
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
